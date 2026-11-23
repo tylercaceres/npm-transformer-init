@@ -72,4 +72,4 @@ console.log(
   newTransform(arrObj, transformer, newFields, oldFields, renameFields),
 );
 
-console.log("test 2");
+console.log("test 3");
